@@ -1,3 +1,3 @@
 # AsyncTask
 
-Simple example of AsyncTask
+Simple example of an AsyncTask
